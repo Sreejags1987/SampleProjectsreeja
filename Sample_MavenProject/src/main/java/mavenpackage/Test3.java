@@ -3,7 +3,7 @@ package mavenpackage;
 public class Test3 extends Test2 {
 	public void display()
 	{
-		System.out.println("Hello");
+		System.out.println("Hello World");
 		
 	}
 

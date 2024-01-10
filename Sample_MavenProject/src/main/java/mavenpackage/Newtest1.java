@@ -2,15 +2,17 @@ package mavenpackage;
 
 public class Newtest1 {
 	
-	private static void myObject() {
+ public void print() {
+	 public static void main(String []args){
+		 
+	 }
+		
+	
+	 {
+		System.out.println("Hello World");
 		
 	}
-	
-
-	public static void main(String[] args) {
-		System.out.println("Hello");
-		myObject();
-	}
+}
 }
 
 	
