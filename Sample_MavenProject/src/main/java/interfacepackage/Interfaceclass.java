@@ -28,7 +28,7 @@ public class Interfaceclass implements Interfacenew{
 	@Override
 	public void add() {
 		// TODO Auto-generated method stub
-		System.out.println("Implementing class on another method");
+		System.out.println("Implementing class on another  method");
 		
 		
 	}
