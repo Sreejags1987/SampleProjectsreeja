@@ -1,6 +1,6 @@
 package interfacepackage;
 
-public class sampleInterface1 {
+public abstract class sampleInterface1 {
 
 	public static final int a=30;
 	
@@ -9,7 +9,7 @@ public class sampleInterface1 {
 	public abstract void check();
 		public abstract void test();
 		
-	}
+	
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
